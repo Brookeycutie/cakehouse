@@ -1,0 +1,17 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+footer{
+    background: #2d3748;
+    color: #e2e8f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.title{
+    font-size: 32px;
+    text-transform: uppercase;
+    border-bottom: 2px solid burlywood;
+    padding: 12px 0;
+}
